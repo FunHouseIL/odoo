@@ -127,7 +127,7 @@
             </button>
             <button class='button pay'>
                 <div class='pay-circle'>
-                    <i class='fa fa-chevron-right' /> 
+                    <i class='fa fa-chevron-left' />
                 </div>
                 Payment
             </button>
@@ -602,7 +602,7 @@
             <div class='screen-content'>
                 <div class='top-content'>
                     <span class='button back'>
-                        <i class='fa fa-angle-double-left'></i>
+                        <i class='fa fa-angle-double-right'></i>
                         Back
                     </span>
                     <h1>Payment</h1>
